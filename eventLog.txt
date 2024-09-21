@@ -1,0 +1,15 @@
+2024-09-21T10:56:42.852Z: Application started
+2024-09-21T10:56:42.862Z: Application event occurred
+2024-09-21T10:56:45.860Z: Current Memory Usage: 14.71
+2024-09-21T10:56:48.870Z: Current Memory Usage: 15.08
+2024-09-21T10:56:51.878Z: Current Memory Usage: 13.63
+2024-09-21T10:56:54.883Z: Current Memory Usage: 14.69
+2024-09-21T10:56:59.698Z: Application started
+2024-09-21T10:56:59.701Z: Application event occurred
+2024-09-21T10:57:02.707Z: Current Memory Usage: 18.05
+2024-09-21T10:57:05.717Z: Current Memory Usage: 14.69
+2024-09-21T10:57:08.723Z: Current Memory Usage: 15.07
+2024-09-21T10:57:11.727Z: Current Memory Usage: 16.30
+2024-09-21T10:57:14.733Z: Current Memory Usage: 17.70
+2024-09-21T10:57:17.746Z: Current Memory Usage: 16.13
+2024-09-21T10:57:20.747Z: Current Memory Usage: 17.71
